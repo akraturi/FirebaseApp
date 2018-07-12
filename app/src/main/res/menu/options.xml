@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Create snap"
+          android:id="@+id/createsnap"></item>
+    <item android:title="log out"
+          android:id="@+id/log_out"></item>
+
+</menu>
